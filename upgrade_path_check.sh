@@ -3,6 +3,8 @@
 # Usage: ./oc-adm-upgrade-loop.sh <search-string>
 # Example: ./oc-adm-upgrade-loop.sh Available
 
+This is wrong...
+
 OC_BIN="/usr/bin/oc"
 LOG="oc-adm-upgrade.log"
 
